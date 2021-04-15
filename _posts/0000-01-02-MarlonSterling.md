@@ -2,5 +2,8 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+Hai there
+Im Marlon S
+What's Up ?
+Today is a wonderful day is it !
+Cyaa
